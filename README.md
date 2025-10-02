@@ -25,7 +25,7 @@ In order to archive the best result and learn the main difficulties of the devel
 * Data Augmentation 
 * Transfer Learning approach 
 
-📚 A final [report](Challenge%20%201/Report.pdf) is available in which all the phases of the project are described in detail.
+📚 A final [report](Challenge%201/Report.pdf) is available in which all the phases of the project are described in detail.
 
 🏆 At the end of the challenge, we reached an accuracy of 0.889 on the platform test set with our best model
 
